@@ -1,1 +1,1 @@
-Here, we are going to test branches and merge them.
+Here, we are going to test branches and merge them. Now we are setting up new branch.
